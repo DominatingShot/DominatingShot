@@ -1,0 +1,3 @@
+- 👋 Hi, I’m DominatingShot
+- 👀 I’m interested in Gaming
+- 🌱 I’m currently learning JAVA ,C ,PYTHON
